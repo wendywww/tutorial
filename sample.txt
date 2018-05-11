@@ -1,4 +1,5 @@
 Git commands even a monkey can understand
 add: Register a change in an index
 3rd line to update the branch
-commit: Save the status of an index
+Save the status of an index
+Obtain the content of the remote repository
