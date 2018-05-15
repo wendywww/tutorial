@@ -2,4 +2,4 @@ Git commands even a monkey can understand
 add: Register a change in an index
 3rd line to update the branch
 Save the status of an index
-Obtain the content of the remote repository
+Ojahaeeisstttbtain the content of the remote repository
